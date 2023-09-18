@@ -28,8 +28,3 @@ I am a Front End Developer with experience building responsive and accessible ap
 
 <p align="left"> <a href="https://www.github.com/colinho97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/colin-ho-3b7768103/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/colinho97"><img src="https://github-readme-stats.vercel.app/api?username=colinho97&show_icons=true&hide=stars,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="colinho97's GitHub stats" /></a>
